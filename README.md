@@ -1,5 +1,6 @@
-
-<h3>⭐ Language & Stack ⭐</h3>
+<h1> Hi there ! 👋 </h1>
+<h3>🔥 BackEnd Developer 🔥 </h3>
+<h3>🛠  Skill 🛠 </h3>
 <div>
     
 ### Language
