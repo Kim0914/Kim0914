@@ -22,13 +22,20 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-6DB33F?style=for-the-badge&logo=NGINX&logoColor=white">
+    
 </div>
+<br>
+<br>
+<h3>⭐ Recent Post ⭐</h3>
 
-<h3 align="center">⭐ Recent Post ⭐</h3>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dd-developer&postId=)](https://dd-developer.tistory.com/)
 
-</div>
+  
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={dd-developer}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
+
+
+
+
 
 <!--
 **Kim0914/Kim0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
