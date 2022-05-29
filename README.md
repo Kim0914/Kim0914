@@ -24,6 +24,11 @@
 <img src="https://img.shields.io/badge/NGINX-6DB33F?style=for-the-badge&logo=NGINX&logoColor=white">
 </div>
 
+<h3 align="center">⭐ Recent Post ⭐</h3>
+
+</div>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={dd-developer}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
 
 <!--
 **Kim0914/Kim0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
